@@ -10,8 +10,8 @@ We want to hear your creative ideas! Whether it’s a new feature, a design sugg
 - **Collaborate**: Feel free to discuss your idea with others to refine it further!
 
 ## Current Ideas:
-- [Idea 1: Title of the Idea] - A brief description of the idea.
-- [Idea 2: Title of the Idea] - A brief description of the idea.
+- [ Image and Video Polling ] - Allow users to create polls using iamges or video clips instead of text, this visual element would make the platform more engagging and attractive.
+
 
 ---
 
